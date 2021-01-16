@@ -1,4 +1,4 @@
-# Steven Moran, Curriculum Vitae
+# Steven Moran, Curriculum Vitæ
 
 [PDF](StevenMoranCV.pdf)
 
