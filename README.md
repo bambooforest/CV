@@ -1,3 +1,9 @@
-# Steven Moran, Curriculum Vitae
+# Steven Moran, Curriculum Vitæ
 
-See also: [Google scholar](https://scholar.google.com/citations?user=PpTOh08AAAAJ&hl=en).
+[PDF](StevenMoranCV.pdf)
+
+See also: 
+
+  * [Homepage](https://www.unine.ch/evolang/home/team/steven-moran.html)
+  * [Google scholar](https://scholar.google.com/citations?user=PpTOh08AAAAJ&hl=en)
+  
