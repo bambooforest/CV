@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.10.30)  6 NOV 2021 11:57
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.10.30)  23 FEB 2022 15:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,19 +265,13 @@ Overfull \hbox (31.5116pt too wide) in paragraph at lines 134--146
 
 ] [2
 
-]
-Overfull \hbox (2.60098pt too wide) in paragraph at lines 221--222
-[]\TU/lmr/bx/n/10.95 In press. \TU/lmr/m/n/10.95 Moran, Steven. Managing Phonol
-ogical Inventory Data in the Development of PHOIBLE.
- []
-
-[3
+] [3
 
 ] [4]
 Missing character: There is no ￼ (U+FFFC) in font [lmroman10-regular]:mapping=t
 ex-text;!
 
-Overfull \hbox (9.45317pt too wide) in paragraph at lines 315--316
+Overfull \hbox (9.45317pt too wide) in paragraph at lines 319--320
 \TU/lmr/m/n/10.95 land. [][]$[][][][] [] [] [] [][][] [] [][][][] [][] [][][][]
  [] [][][] [] [][][][][][][][][][][] [] [][][][][][][][] [] [][][][][][][][][] 
 [] [][][][][][][][][][][][][][][][] [][]
@@ -286,28 +280,28 @@ Overfull \hbox (9.45317pt too wide) in paragraph at lines 315--316
 Missing character: There is no ￼ (U+FFFC) in font [lmroman10-regular]:mapping=t
 ex-text;!
 [5]
-Overfull \hbox (12.21413pt too wide) in paragraph at lines 339--340
+Overfull \hbox (12.21413pt too wide) in paragraph at lines 343--344
 \TU/lmr/m/it/10.95 2012\TU/lmr/m/n/10.95 , pg 3603–3610, Istanbul, Turkey, May 
 23–25. [][]$[][][][] [] [] [] [][][] [] [][][][] [][] [][][][] [] [][][] [] [][
 ][][][][][][][][][] []
  []
 
 [6]
-Overfull \hbox (35.49567pt too wide) in paragraph at lines 391--392
+Overfull \hbox (35.49567pt too wide) in paragraph at lines 395--396
 [][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][] [] [
 ][][] [][] [][][][][][][][] [][] [][][][][] [][] [][] [][] [][][][][][][][][] [
 ][] [][][] [][] [][][][][][][][][][] [][]
  []
 
 
-Overfull \hbox (0.81705pt too wide) in paragraph at lines 444--445
+Overfull \hbox (0.81705pt too wide) in paragraph at lines 448--449
 [][][][][] [][] [][][][][][][] [][] [][][] [][] [][][] [][] [][][][][][][] [][]
  [][][][][][] [][] [][][][][] [][] [][][][][][]$[][]\TU/lmr/m/n/10.95 . Transla
 ted into Bahasa Indone-
  []
 
 
-Overfull \hbox (25.49817pt too wide) in paragraph at lines 447--448
+Overfull \hbox (25.49817pt too wide) in paragraph at lines 451--452
 [][][][][][] [] [][] [] [][][][][][][] [][] [][][][][] [] [][][][] [] [][] [] [
 ][] [] [][][][] [][] [][] [][] [][][][][] [][] [][] [][] [][] [][] [][][][] [][
 ] [][][] [][] [][][][][][][][][] [][] [][][][][] [][]
@@ -316,14 +310,14 @@ Overfull \hbox (25.49817pt too wide) in paragraph at lines 447--448
 [7
 
 ]
-Overfull \hbox (16.04152pt too wide) in paragraph at lines 464--465
+Overfull \hbox (16.04152pt too wide) in paragraph at lines 468--469
 \TU/lmr/m/n/10.95 Zenodo. [][]$[][][][][] [] [] [] [][][] [] [][][] [] [][] [] 
 [][][][] [] [][][][][][] [] [][][][][][][]$[][]. [][]$[][][][][] [] [] [] [][][
 ][][][] [] [][][] [] [][][][][][] [] [][][][][][]$[][]. 
  []
 
 
-Overfull \hbox (5.52953pt too wide) in paragraph at lines 472--473
+Overfull \hbox (5.52953pt too wide) in paragraph at lines 476--477
 \TU/lmr/m/n/10.95 set]. Zenodo. [][]$[][][][][] [] [] [] [][][] [] [][][] [] []
 [] [] [][][][] [] [][][][][][] [] [][][][][][][]$[][]. [][]$[][][][][] [] [] []
  [][][][][][] [] [][][] [] [][][][][][][]$[][]. 
@@ -336,39 +330,39 @@ Missing character: There is no ￼ (U+FFFC) in font [lmroman10-regular]:mapping=
 ex-text;!
 Missing character: There is no ￼ (U+FFFC) in font [lmroman10-regular]:mapping=t
 ex-text;!
- [14] [15] [16] [17] [18
-
-]
-Overfull \hbox (8.39624pt too wide) in paragraph at lines 1193--1203
+ [14] [15] [16] [17] [18] [19]
+Overfull \hbox (8.39624pt too wide) in paragraph at lines 1213--1223
 [] 
  []
 
-[19] [20]
-Overfull \hbox (38.89032pt too wide) in paragraph at lines 1259--1260
+[20
+
+]
+Overfull \hbox (38.89032pt too wide) in paragraph at lines 1277--1278
 \TU/lmr/m/n/10.95 Netherlands. [][]$[][][][][] [] [] [] [][][] [] [][][][][][][
 ] [] [][] [] [][] [] [][][] [] [][][][][] [] [][][][][][] [][] [][][][] [][] []
 [][] [][] [][][][][][][][][][] [][] [][][][][][][][]$[][]. 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1283.
+(Font)              <7> on input line 1301.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1283.
-[21
+(Font)              <5> on input line 1301.
+[21] [22] [23
 
-] [22] [23] [24]
-Overfull \hbox (6.68703pt too wide) in paragraph at lines 1698--1699
+] [24]
+Overfull \hbox (6.68703pt too wide) in paragraph at lines 1738--1739
 []\TU/lmr/bx/n/10 2016 \TU/lmr/m/n/10 Scientific committee, 2nd Workshop on Com
 putational Methods for Endangered Languages (ComputEL-
  []
 
-
-Overfull \hbox (2.16095pt too wide) in paragraph at lines 1754--1755
+[25]
+Overfull \hbox (2.16095pt too wide) in paragraph at lines 1794--1795
 []\TU/lmr/bx/n/10 2012 \TU/lmr/m/n/10 Program committee, European Association o
 f Computational Linguistics (EACL) Workshop: LINGVIS
  []
 
-[25] [26] (./StevenMoranCV.aux)
+[26] (./StevenMoranCV.aux)
 Package rerunfilecheck Info: File `StevenMoranCV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
